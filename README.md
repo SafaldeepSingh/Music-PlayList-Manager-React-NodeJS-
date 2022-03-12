@@ -1,7 +1,6 @@
 # Music Playlist Manager
 
-![image](https://user-images.githubusercontent.com/89362925/158034496-409cdf46-e2f7-4afe-84d7-f37dd01daf87.png)
-
+![image](https://user-images.githubusercontent.com/89362925/158035572-23feae3d-d96b-4a26-910b-c04073c007e0.png)
 
 ## Features
 1. User can search for Music
