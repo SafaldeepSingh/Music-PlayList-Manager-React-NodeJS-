@@ -8,9 +8,9 @@
 3. Pagination done for search results
 
 ## Technology
-**Front-End -** ReactJS, CSS, BootStrap
-**Back-End -** NodeJS, ExpressJs
-**Database -** Postgres
+**Front-End -** ReactJS, CSS, BootStrap <br>
+**Back-End -** NodeJS, ExpressJs <br>
+**Database -** Postgres <br>
 **API -** Discogs.com
 
 
