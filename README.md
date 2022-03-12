@@ -10,7 +10,7 @@
 ## Technology
 **Front-End -** ReactJS, CSS, BootStrap <br>
 **Back-End -** NodeJS, ExpressJs <br>
-**Database -** Postgres <br>
+**Database -** PostgreSQL <br>
 **API -** Discogs.com
 
 
